@@ -75,3 +75,12 @@ Duplicate files are handled (deleted or flagged)
 ↓
 Deletion activity is logged for auditing
 ```
+
+## Research Paper
+
+Title: Leveraging GNN-Driven Inference with Pub/Sub Messaging for Coherent Data Erasure in Multi-Node Cloud Systems
+Journal: International Journal For Multidisciplinary Research (IJFMR)
+DOI: https://doi.org/10.36948/ijfmr.2025.v07i04.54019
+
+
+Read Full Paper: https://www.ijfmr.com/research-paper.php?id=54019
