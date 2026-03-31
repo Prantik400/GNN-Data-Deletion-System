@@ -52,7 +52,7 @@ The proposed system integrates two core ideas:
   - Access frequency  
   - Connectivity  
 
-👉 This allows the system to **identify possible hidden or indirect duplicates**
+ This allows the system to **identify possible hidden or indirect duplicates**
 
 ---
 
