@@ -85,6 +85,5 @@ Journal: International Journal For Multidisciplinary Research (IJFMR)
 DOI: https://doi.org/10.36948/ijfmr.2025.v07i04.54019
 
 
-Read Full Paper: https://www.ijfmr.com/research-paper.php?id=54019
+Read Full Paper here: https://www.ijfmr.com/research-paper.php?id=54019
 
-Don't forget to add reviews
